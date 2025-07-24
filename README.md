@@ -1,4 +1,5 @@
 # Pixar-films-Analysis
+![](https://github.com/Ani-Favour/Pixar-films-Analysis/blob/main/Pixar%20FullDashboard%20Videos.mp4)
 This Power BI project explores data from Pixar films to uncover insights into genres, audience ratings, box office performance, and more.
 
 ## Key Highlights
