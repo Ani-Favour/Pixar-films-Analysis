@@ -2,6 +2,7 @@
 This Power BI project explores data from Pixar films to uncover insights into genres, audience ratings, box office performance, and more.
 
 ## Key Highlights
+![](https://github.com/Ani-Favour/Pixar-films-Analysis/blob/main/Key%20Highlights(KPI's).png)
 - Total Worldwide Revenue: Pixar films have generated an impressive $17 billion globally.
 
 - Average Runtime: The average length of a Pixar movie is 100.39 minutes, aligning with typical animated feature film standards.
@@ -13,6 +14,7 @@ This Power BI project explores data from Pixar films to uncover insights into ge
 - Total Films Analyzed: 28 Pixar films are included in the dataset.
 
  ## Film Ratings & Genres
+ ![](https://github.com/Ani-Favour/Pixar-films-Analysis/blob/main/Films%20Rating%20Distribution.png)
 Rating Distribution:
 
 G-rated: 15 films (53.57%)
@@ -29,6 +31,7 @@ Other common themes include Computer Animation, Comedy, and Fantasy.
 
 
 ## Top Earning Films
+![](https://github.com/Ani-Favour/Pixar-films-Analysis/blob/main/Top%20Earning%20Pixar%20Films.png)
 - The highest-grossing films include:
 
 - Inside Out 2 – $1.70 billion
@@ -43,6 +46,7 @@ These blockbusters highlight the strong commercial performance of sequels and fr
 
 
 ## Audience Ratings Trends
+![](https://github.com/Ani-Favour/Pixar-films-Analysis/blob/main/Audience%20Ratings%20Overtime.png)
 - Audience reception fluctuates throughout the year:
 
 - Highest Rating: May – 8.25
