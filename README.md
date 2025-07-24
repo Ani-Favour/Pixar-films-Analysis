@@ -24,7 +24,8 @@ PG-rated: 13 films (46.43%)
 
 The slight majority of films are rated G, suitable for general audiences.
 
-Most Frequent Genres:
+## Most Frequent Genres:
+![](https://github.com/Ani-Favour/Pixar-films-Analysis/blob/main/Pixar%20Favourite%20Genre.png)
 
 Adventure and Animation are the top genres, appearing most frequently in Pixar films.
 
